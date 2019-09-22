@@ -9,7 +9,7 @@ git clone git@github.com:yolenan/NGSIM_animation.git
 cd Visual_trajactory
 ```
 ### Step2
-Download the data from https://cloud.tsinghua.edu.cn/f/517ef67ab9294d368c7a/,\
+Download the data from https://cloud.tsinghua.edu.cn/f/517ef67ab9294d368c7a/
 and put the data in the folder `/data`
 ### Step3
 ```python
