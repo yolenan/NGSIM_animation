@@ -1,4 +1,4 @@
-#NGSIM lane-level trajectory animation
+# NGSIM lane-level trajectory animation
 ## Introduction
 This project is a hw for ITS instructed by Prof.Li. \
 This project provides a simple lane-level visualization of NGSIM data. 
